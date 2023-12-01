@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+button.btn-primary{
+    background-color:  rgb(0, 179, 255);
+    color: black;
+}
+.blog-post , .latest-blog, .categories, .form{
+    border: 01px solid black;
+    box-shadow: 5px 5px 5px 1px grey;
+    border-radius: 5px;
+}
