@@ -4,6 +4,12 @@ A blog post application where users can add their own blogs. All blogs at `theBl
 
 ![theBlog image](./Images/Capture.JPG)
 
+## Read Blogs
+
+Read Blogs of your choice by simply clicking on them, No matter whether you are logged in or not.
+
+![theBlog image](./Images/dffsdfds.JPG)
+
 ## Add Your Own Blogs
 To Add and Manage your Blog posts, simply `Sign Up` or `Login` to your existing account at `theBlog`.
 
@@ -35,5 +41,11 @@ Users will get their own dashboard after logging in to their accounts.
 
 ![theBlog image](./Images/create-category.JPG)
 
-![theBlog image](./Images/dffsdfds.JPG)
-![theBlog image](./Images/sdfdfsdf.JPG)
+## Give a Star⭐
+
+Give a Star if you liked it❤️
+
+
+
+
+
