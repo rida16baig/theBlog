@@ -3,7 +3,7 @@
 @section('title', 'create category')
 
 @section('content')
-    <div class="container col-6 mt-5 card p-3">
+    <div class="container col-6 mt-5 card p-3 form">
         <h3 class="text-center card-header">Create Category</h3>
         <form action="{{ route('store_category') }}" class="card-body" method="POST" enctype="multipart/form-data">
             @csrf

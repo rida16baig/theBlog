@@ -5,7 +5,7 @@
 
 
 @section('content')
-    <div class="container col-6 mt-5">
+    <div class="container col-6 mt-5 form">
         <h3 class="card-title text-center">Create Blog Post</h3>
         <form action="{{ Route('create_blog_post') }}" method="POST" enctype="multipart/form-data">
             @csrf

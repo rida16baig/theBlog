@@ -5,7 +5,7 @@
 
 
 @section('content')
-    <div class="container col-6 mt-5 p-5">
+    <div class="container col-6 mt-5 p-5 form">
         <h3 class="text-center">Edit Blog Post</h3>
         <form action="{{Route('edit_blog_post',$blog->id)}}" method="POST" enctype="multipart/form-data">
             @csrf

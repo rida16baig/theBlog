@@ -10,7 +10,7 @@
             <p class="text-success">{{ Session::get('success') }}</p>
         @endif
         <div class="card">
-            <div class="card-body">
+            <div class="card-body form">
                 @if (Session::has('success'))
                     <div class="alert alert-success alert-dismissible fade show" role="alert">
                 @endif

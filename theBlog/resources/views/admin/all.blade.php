@@ -7,7 +7,7 @@
 @section('content')
     <div class="container col-6 mt-5">
         <div class="card">
-            <div class="card-body">
+            <div class="card-body form">
                 @if (Session::has('success'))
                     <div class="alert alert-success alert-dismissible fade show" role="alert">
                         <strong>Success!</strong> {{ Session::get('success') }}.
